@@ -4,7 +4,7 @@
 
 ## 在线预览
 
-访问 [https://YOUR_USERNAME.github.io/image-compressor](https://YOUR_USERNAME.github.io/image-compressor) 即可在线使用工具。
+访问 [https://sansui66.github.io/image-compressor](https://sansui66.github.io/image-compressor) 即可在线使用工具。
 
 ## 功能特点
 
